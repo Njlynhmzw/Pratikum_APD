@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="2409106066_Nou Julyanah Mazuwa_B1"/>
+        <attribute name="authors" value="LENOVO"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-09-24 07:58:25 AM"/>
+        <attribute name="created" value="TEVOT1ZPO0xBUFRPUC1DQk8yTjlNVjsyMDI0LTA5LTIyOzEwOjUyOjU5IEFNOzI4MDg="/>
+        <attribute name="edited" value="TEVOT1ZPO0xBUFRPUC1DQk8yTjlNVjsyMDI0LTA5LTI0OzA3OjU4OjI1IEFNOzQ7MjkyNg=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="menu" type="Integer" array="False" size=""/>
+            <declare name="panjang, lebar, tinggi, rusuk, luaskubus, kelilingbalok, volumebalok" type="Real" array="False" size=""/>
+            <output expression="&quot;=======================================================&quot; &amp; &#13;&#10;ToChar(13)&amp; &#13;&#10;&quot;menu program menghitung luas permukaan, keliling, dan volume berbagai bangun ruang&quot;&amp; &#13;&#10;ToChar(13)&amp;&#13;&#10;&quot;======================================================&quot;&amp;&#13;&#10;ToChar(13)&amp;&#13;&#10;&quot;1. hitunglah luas kubus&quot;&amp;&#13;&#10;ToChar(13)&amp;&#13;&#10;&quot;2. volume balok&quot;&amp;&#13;&#10;ToCHar(13)&amp;&#13;&#10;&quot;3. keliling balok&quot;&amp;&#13;&#10;ToChar(13)&amp;&#13;&#10;&quot;4. keluar dari program&quot;&amp;&#13;&#10;ToChar(13)&amp;&#13;&#10;&#13;&#10;&quot;======================================================&quot;" newline="True"/>
+            <output expression="&quot;Masukkan pilihan menu&quot;" newline="True"/>
+            <input variable="menu"/>
+            <if expression="menu==1">
+                <then>
+                    <output expression="&quot;hitunglah luas kubus&quot;" newline="True"/>
+                    <output expression="&quot;masukkan panjang rusuk (dalam cm):&quot;" newline="True"/>
+                    <input variable="rusuk"/>
+                    <assign variable="luaskubus" expression="6*rusuk*rusuk"/>
+                    <output expression="&quot;luas kubus dengan rusuk&quot;&amp; rusuk &amp; &quot;cm&quot;&amp;  &quot;adalah&quot; &amp; &#13;&#10;luaskubus&amp; &quot;cm^2&quot;" newline="True"/>
+                </then>
+                <else>
+                    <if expression="menu==2">
+                        <then>
+                            <output expression="&quot;hitunglah volume balok&quot;" newline="True"/>
+                            <output expression="&quot;masukkan panjang(dalam cm):&quot;" newline="True"/>
+                            <input variable="panjang"/>
+                            <output expression="&quot;masukkan lebar(dalam cm):&quot;" newline="True"/>
+                            <input variable="lebar"/>
+                            <output expression="&quot;masukkan tinggi(dalam cm):&quot;" newline="True"/>
+                            <input variable="tinggi"/>
+                            <assign variable="Volumebalok" expression="panjang*lebar*tinggi"/>
+                            <output expression="&quot;volume balok dengan &quot;&amp; &quot;panjang&quot;&amp; panjang &amp; &quot;cm&quot;&amp; &quot;lebar&quot;&amp; lebar &amp; &quot;cm&quot;&amp; &quot;tinggi&quot;&amp; tinggi &amp; &quot;cm&quot;&amp; &quot;adalah&quot; &amp; &#13;&#10;volumebalok &amp; &quot;cm^3&quot;" newline="True"/>
+                        </then>
+                        <else>
+                            <if expression="menu==3">
+                                <then>
+                                    <output expression="&quot;hitunglah keliling balok&quot;" newline="True"/>
+                                    <output expression="&quot;masukkan panjang(dalam cm):&quot;" newline="True"/>
+                                    <input variable="panjang"/>
+                                    <output expression="&quot;masukkan lebar(dalam cm):&quot;" newline="True"/>
+                                    <input variable="lebar"/>
+                                    <output expression="&quot;masukkan tinggi(dalam cm):&quot;" newline="True"/>
+                                    <input variable="tinggi"/>
+                                    <assign variable="Kelilingbalok" expression="4*(panjang+lebar+tinggi)"/>
+                                    <output expression="&quot;keliling balok dengan &quot;&amp; &quot;panjang&quot;&amp; panjang &amp; &quot;cm&quot;&amp; &quot;lebar&quot;&amp; lebar &amp; &quot;cm&quot;&amp; &quot;tinggi&quot;&amp; tinggi &amp; &quot;cm&quot;&amp; &quot;adalah&quot; &amp; &#13;&#10;kelilingbalok &amp; &quot;cm&quot;" newline="True"/>
+                                </then>
+                                <else>
+                                    <output expression="&quot;keluar dari program&quot;" newline="True"/>
+                                </else>
+                            </if>
+                        </else>
+                    </if>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
