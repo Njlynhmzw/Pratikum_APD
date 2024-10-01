@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="posttest ke 2"/>
+        <attribute name="authors" value="LENOVO"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-09-17 07:09:46 PM"/>
+        <attribute name="created" value="TEVOT1ZPO0xBUFRPUC1DQk8yTjlNVjsyMDI0LTA5LTE2OzA1OjIxOjMzIEFNOzI4MDM="/>
+        <attribute name="edited" value="TEVOT1ZPO0xBUFRPUC1DQk8yTjlNVjsyMDI0LTA5LTE3OzA3OjA5OjQ2IFBNOzU7Mjk0Mw=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="nama" type="String" array="False" size=""/>
+            <declare name="umur" type="Integer" array="False" size=""/>
+            <declare name="tinggibadan" type="Real" array="False" size=""/>
+            <declare name="total" type="Integer" array="False" size=""/>
+            <declare name="gender" type="String" array="False" size=""/>
+            <output expression="&quot;masukkan nama anda&quot;" newline="True"/>
+            <input variable="nama"/>
+            <output expression="&quot;masukkan umur anda&quot;" newline="True"/>
+            <input variable="umur"/>
+            <output expression="&quot;masukkan tinngi badan anda(dalam cm)&quot;" newline="True"/>
+            <input variable="tinggibadan"/>
+            <output expression="&quot;masukkan gender (pria/wanita)&quot;" newline="True"/>
+            <input variable="gender"/>
+            <assign variable="total" expression="umur + tinggibadan"/>
+            <if expression="gender == &quot;pria&quot;">
+                <then>
+                    <output expression="&quot;============================&quot;" newline="True"/>
+                    <output expression="&quot;bio data&quot;" newline="True"/>
+                    <output expression="&quot;=============================&quot;" newline="True"/>
+                    <output expression="&quot;nama : &quot; &amp; nama" newline="True"/>
+                    <output expression="&quot;gender : pria&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;============================&quot;" newline="True"/>
+                    <output expression="&quot;bio data&quot;" newline="True"/>
+                    <output expression="&quot;=============================&quot;" newline="True"/>
+                    <output expression="&quot;nama : &quot; &amp; nama" newline="True"/>
+                    <output expression="&quot;gender : wanita&quot;" newline="True"/>
+                </else>
+            </if>
+            <output expression="&quot;umur: &quot; &amp; umur &amp; &quot; tahun&quot;" newline="True"/>
+            <output expression="&quot;tinggi badan:&quot; &amp; tinggibadan &amp; &quot;cm&quot;" newline="True"/>
+            <output expression="&quot;total tinggi badan + berat badan: &quot; &amp; total" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
