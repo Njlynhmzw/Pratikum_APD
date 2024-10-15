@@ -1,0 +1,376 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8">
+  <diagram name="Page-1" id="10fnRW3obFpyfJOelho8">
+    <mxGraphModel dx="1160" dy="1212" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gmw3tlmgy3xQDESiHzNm-1" target="Gmw3tlmgy3xQDESiHzNm-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;Start&lt;/font&gt;&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="340" y="40" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gmw3tlmgy3xQDESiHzNm-2" target="Gmw3tlmgy3xQDESiHzNm-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-2" value="&lt;div style=&quot;font-size: 11px; white-space: pre;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; color=&quot;#330000&quot;&gt;     &lt;/font&gt;&lt;b style=&quot;color: rgb(51, 0, 0); font-family: rwcmR4gtEUjeIfdyCR9C; background-color: initial;&quot;&gt;Sistem Penjualan Novel :&lt;/b&gt;&lt;span style=&quot;color: rgb(51, 0, 0); font-family: rwcmR4gtEUjeIfdyCR9C; background-color: initial;&quot;&gt; &lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px; white-space: pre;&quot;&gt;&lt;font face=&quot;rwcmR4gtEUjeIfdyCR9C&quot; color=&quot;#330000&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 1. Lihat Novel&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px; white-space: pre;&quot;&gt;&lt;font face=&quot;rwcmR4gtEUjeIfdyCR9C&quot; color=&quot;#330000&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 2. Tambah Novel&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px; white-space: pre;&quot;&gt;&lt;font face=&quot;rwcmR4gtEUjeIfdyCR9C&quot; color=&quot;#330000&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 3. Ganti Harga Novel&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px; white-space: pre;&quot;&gt;&lt;font face=&quot;rwcmR4gtEUjeIfdyCR9C&quot; color=&quot;#330000&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 4. Hapus Novel&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px; white-space: pre;&quot;&gt;&lt;font face=&quot;rwcmR4gtEUjeIfdyCR9C&quot; color=&quot;#330000&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 5. Keluar&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=center;" vertex="1" parent="1">
+          <mxGeometry x="305" y="130" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="220" as="sourcePoint" />
+            <mxPoint x="500" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gmw3tlmgy3xQDESiHzNm-5" target="Gmw3tlmgy3xQDESiHzNm-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-5" value="&lt;font face=&quot;Times New Roman&quot;&gt;Masukkan pilihan&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;mfXB7RuG0Puxa2qr5DDN&quot;&gt;menu&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="320" y="270" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="280" as="sourcePoint" />
+            <mxPoint x="350" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="310" y="280" />
+              <mxPoint x="340" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gmw3tlmgy3xQDESiHzNm-9" target="Gmw3tlmgy3xQDESiHzNm-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gmw3tlmgy3xQDESiHzNm-9" target="Gmw3tlmgy3xQDESiHzNm-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-9" value="&lt;font face=&quot;Times New Roman&quot;&gt;Menu == 1&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="350" y="380" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gmw3tlmgy3xQDESiHzNm-13" target="Gmw3tlmgy3xQDESiHzNm-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-13" value="&lt;font face=&quot;Times New Roman&quot;&gt;Lihat daftar novel&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="330" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-17" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;True&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="460" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gmw3tlmgy3xQDESiHzNm-18" target="Gmw3tlmgy3xQDESiHzNm-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gmw3tlmgy3xQDESiHzNm-18" target="Gmw3tlmgy3xQDESiHzNm-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-18" value="&lt;font face=&quot;Times New Roman&quot;&gt;Menu == 2&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="540" y="380" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-20" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;False&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="390" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="425" y="550" as="sourcePoint" />
+            <mxPoint x="470" y="550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="445" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gmw3tlmgy3xQDESiHzNm-22" target="Gmw3tlmgy3xQDESiHzNm-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="390" y="720" />
+              <mxPoint x="90" y="720" />
+              <mxPoint x="90" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-22" value="&lt;font face=&quot;Times New Roman&quot;&gt;Enter untuk memilih&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;U2tfMCzVq5XJoXlDEWwH&quot;&gt;menu lagi&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="325" y="600" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="305" y="610" as="sourcePoint" />
+            <mxPoint x="360" y="610" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="335" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gmw3tlmgy3xQDESiHzNm-27" target="Gmw3tlmgy3xQDESiHzNm-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-27" value="&lt;font face=&quot;Times New Roman&quot;&gt;Masukkan&amp;nbsp;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;_Z6wiHmPNJ_Iof_eDRnn&quot;&gt;Judul, Author, Harga,&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;_Z6wiHmPNJ_Iof_eDRnn&quot;&gt;Tahun terbit novel&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;_Z6wiHmPNJ_Iof_eDRnn&quot;&gt;yang mau di tambah&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="505" y="500" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="510" as="sourcePoint" />
+            <mxPoint x="535" y="510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gmw3tlmgy3xQDESiHzNm-30" target="Gmw3tlmgy3xQDESiHzNm-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-30" value="&lt;font face=&quot;Times New Roman&quot;&gt;Novel berhasil&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;IDNDqh24odJC8hXlumRx&quot;&gt;ditambah&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="522.5" y="600" width="115" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="640" as="sourcePoint" />
+            <mxPoint x="655" y="640" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="630" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-33" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;True&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="580" y="460" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gmw3tlmgy3xQDESiHzNm-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="720" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="780" />
+              <mxPoint x="90" y="780" />
+              <mxPoint x="90" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-34" value="&lt;font face=&quot;Times New Roman&quot;&gt;Enter untuk memilih&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;menu lagi&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="513.13" y="680" width="133.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-36" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="505" y="690" as="sourcePoint" />
+            <mxPoint x="550" y="690" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="525" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gmw3tlmgy3xQDESiHzNm-40" target="Gmw3tlmgy3xQDESiHzNm-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gmw3tlmgy3xQDESiHzNm-40" target="Gmw3tlmgy3xQDESiHzNm-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-40" value="&lt;font face=&quot;Times New Roman&quot;&gt;Menu == 3&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="720" y="380" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-42" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;False&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="637.5" y="390" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gmw3tlmgy3xQDESiHzNm-43" target="Gmw3tlmgy3xQDESiHzNm-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-43" value="&lt;font face=&quot;Times New Roman&quot;&gt;Masukkan index&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;lNxbK2cUz8GQw-w03zdk&quot;&gt;dari novel yang&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;lNxbK2cUz8GQw-w03zdk&quot;&gt;mau diganti&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="685" y="500" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-45" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="510" as="sourcePoint" />
+            <mxPoint x="715" y="510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="690" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-46" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;True&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="750" y="460" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gmw3tlmgy3xQDESiHzNm-49" target="Gmw3tlmgy3xQDESiHzNm-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-49" value="&lt;font face=&quot;Times New Roman&quot;&gt;Masukkan judul, penulis,&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;L0Eo-jZ9rid4cYkXU47r&quot;&gt;harga, dan tahun terbit&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;L0Eo-jZ9rid4cYkXU47r&quot;&gt;dari novel yang baru&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="678.75" y="600" width="162.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-51" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="610" as="sourcePoint" />
+            <mxPoint x="715" y="610" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="690" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gmw3tlmgy3xQDESiHzNm-54" target="Gmw3tlmgy3xQDESiHzNm-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-54" value="&lt;font face=&quot;Times New Roman&quot;&gt;Novel berhasil diganti&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;dengan novel&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;yang&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial;&quot;&gt;baru&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="684.38" y="700" width="150.62" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-56" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="740" as="sourcePoint" />
+            <mxPoint x="845" y="740" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="820" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gmw3tlmgy3xQDESiHzNm-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="780" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="760" y="920" />
+              <mxPoint x="90" y="920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-57" value="&lt;font face=&quot;Times New Roman&quot;&gt;Enter untuk memilih&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;knA6eJ-DKwyDQbFy1wgR&quot;&gt;menu lagi&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="689.5300000000001" y="790" width="140.31" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-59" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="675" y="800" as="sourcePoint" />
+            <mxPoint x="720" y="800" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="695" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gmw3tlmgy3xQDESiHzNm-62" target="Gmw3tlmgy3xQDESiHzNm-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gmw3tlmgy3xQDESiHzNm-62" target="Gmw3tlmgy3xQDESiHzNm-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-62" value="&lt;font face=&quot;Times New Roman&quot;&gt;Menu == 4&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="930" y="380" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-64" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;False&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="829.84" y="390" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gmw3tlmgy3xQDESiHzNm-65" target="Gmw3tlmgy3xQDESiHzNm-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-65" value="&lt;font face=&quot;Times New Roman&quot;&gt;Masukkan index&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;nUHlJc6FzZ9Ut5OvxgUv&quot;&gt;dari novel yang&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;nUHlJc6FzZ9Ut5OvxgUv&quot;&gt;mau dihapus&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="894.38" y="497.5" width="151.25" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-67" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="879.84" y="510" as="sourcePoint" />
+            <mxPoint x="924.84" y="510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="899.84" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="971" y="770" as="sourcePoint" />
+            <mxPoint x="90" y="920" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="971" y="1010" />
+              <mxPoint x="90" y="1010" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gmw3tlmgy3xQDESiHzNm-68" target="Gmw3tlmgy3xQDESiHzNm-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-68" value="&lt;font face=&quot;Times New Roman&quot;&gt;Novel berhasil&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;GYn-aPXZy87iLx_Aumqs&quot;&gt;dihapus&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="897.18" y="600" width="145.63" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-70" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1010" y="660" as="sourcePoint" />
+            <mxPoint x="1055" y="660" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1030" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-76" value="&lt;font face=&quot;Times New Roman&quot;&gt;Enter untuk memilih&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;knA6eJ-DKwyDQbFy1wgR&quot;&gt;menu lagi&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="899.85" y="730" width="140.31" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-78" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="885" y="740" as="sourcePoint" />
+            <mxPoint x="930" y="740" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="905" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gmw3tlmgy3xQDESiHzNm-79" target="Gmw3tlmgy3xQDESiHzNm-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gmw3tlmgy3xQDESiHzNm-79" target="Gmw3tlmgy3xQDESiHzNm-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-79" value="&lt;font face=&quot;Times New Roman&quot;&gt;Menu == 5&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="380" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-81" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;True&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="970" y="460" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-82" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;False&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="390" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-83" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;KELUAR&lt;/font&gt;&lt;/b&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="497.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-85" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;True&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="460" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-86" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1160" y="550" as="sourcePoint" />
+            <mxPoint x="1205" y="550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1180" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gmw3tlmgy3xQDESiHzNm-87" target="Gmw3tlmgy3xQDESiHzNm-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-87" value="&lt;font face=&quot;Times New Roman&quot;&gt;Menu yang anda&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;EzvPG9Ua0E8DR2N-TPyg&quot;&gt;pilih tidak&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;EzvPG9Ua0E8DR2N-TPyg&quot;&gt;tersedia&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="395" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-89" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;False&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="390" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-90" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1320" y="440" as="sourcePoint" />
+            <mxPoint x="1365" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1340" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gmw3tlmgy3xQDESiHzNm-91">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="1010" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1496" y="1070" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-91" value="&lt;font face=&quot;Times New Roman&quot;&gt;Enter untuk memilih&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;G6nDQ81SMou9tpVKDH8F&quot;&gt;menu lagi&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="392.5" width="130" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmw3tlmgy3xQDESiHzNm-93" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1420" y="404.76" as="sourcePoint" />
+            <mxPoint x="1465" y="404.76" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1440" y="404.76" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
